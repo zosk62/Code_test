@@ -1,3 +1,5 @@
+https://school.programmers.co.kr/learn/courses/30/lessons/147355
+
 # Substring Comparison
 
 ## Problem Statement
@@ -16,7 +18,9 @@ python
 count = solution("3141592", "271")
 print(count)  # Output should be 2
 
+------------------
 
+https://school.programmers.co.kr/learn/courses/30/lessons/147355
 
 # 숫자로 이루어진 문자열의 부분문자열 비교
 
