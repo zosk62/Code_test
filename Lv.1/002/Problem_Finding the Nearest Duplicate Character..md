@@ -1,3 +1,4 @@
+https://school.programmers.co.kr/learn/courses/30/lessons/142086
 
 ## Problem Statement (Finding the Nearest Duplicate Character.)
 
@@ -17,3 +18,7 @@ Therefore, the final result would be `[-1, -1, -1, 2, 2, 2]`.
 ## Function Specification
 
 Complete the function `solution` that performs the defined operation when given the string `s`.
+
+---
+
+https://school.programmers.co.kr/learn/courses/30/lessons/142086
