@@ -1,5 +1,5 @@
 
-## Problem Statement
+## Problem Statement (Finding the Nearest Duplicate Character.)
 
 Given a string `s`, find the index of the nearest occurrence of the same character that appeared before at each position in `s`.
 
