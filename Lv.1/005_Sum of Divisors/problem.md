@@ -24,7 +24,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12928
 
 
 https://school.programmers.co.kr/learn/courses/30/lessons/12928
-# 🌟 Divisor Sum Calculator 🌟
+# Divisor Sum Calculator
 
 Welcome to the Divisor Sum Calculator project!
 
