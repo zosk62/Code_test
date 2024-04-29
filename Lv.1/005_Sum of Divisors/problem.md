@@ -27,3 +27,23 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12928
 # 🌟 Divisor Sum Calculator 🌟
 
 Welcome to the Divisor Sum Calculator project!
+
+## Description
+Complete the function `solution` that takes an integer `n` as input and returns the sum of all divisors of `n`.
+
+## Constraints
+- `n` is an integer ranging from 0 to 3000, inclusive.
+
+## Examples
+| n   | return |
+|-----|--------|
+| 12  | 28     |
+| 5   | 6      |
+
+## Explanation
+### Example 1
+The divisors of 12 are 1, 2, 3, 4, 6, and 12. Their sum is 28.
+
+### Example 2
+The divisors of 5 are 1 and 5. Their sum is 6.
+``
